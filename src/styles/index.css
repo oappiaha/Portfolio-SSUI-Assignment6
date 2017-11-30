@@ -1,0 +1,137 @@
+.arrow{
+	display: none;
+}
+
+.first-page{
+	background-color: black;
+	
+	color: white;
+	transition: 1s opacity;
+}
+
+.first-page p{
+	font-family: neutonextralight;
+	font-size: 2em;
+	margin-top: 25%;
+	margin-left: 10%;
+}
+
+.container{
+	width: 100%;
+}
+
+
+.second-page{
+	background-color: white;
+	color: black;
+	
+}
+
+.second-page p{
+	font-family: neutonextralight;
+	font-size: 2em;
+	margin-top: 25%;
+	margin-left: 10%;
+}
+
+.third-page{
+	background-color: #EBAEB0;
+	color: white;
+}
+
+.third-page p{
+	font-family: neutonextralight;
+	text-align: center;
+	font-size: 3em;
+	margin-top: 25%;
+
+}
+
+.fourth-page{
+	background-color: #8FB8D8;
+	color: white;
+}
+
+.fourth-page p{
+	font-family: neutonextralight;
+	text-align: center;
+	font-size: 3em;
+	
+}
+
+.fifth-page{
+	background-color: #8FCDAA;
+	color: white;
+
+	
+}
+
+.fifth-page p{
+	font-family: neutonextralight;
+	text-align: center;
+	font-size: 3em;
+
+	
+}
+
+.sixth-page{
+	background-color: #E0CAB8;
+	color: white;	
+}
+
+.sixth-page p{
+	font-family: neutonextralight;
+	text-align: center;
+	font-size: 3em;	
+}
+
+
+
+.bottom-page{
+	color: white;
+}
+
+/*-----------------------Specifics-------------------------------*/
+
+/*------Page Four*----------*/
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+
+}
+
+.left-arrow{
+	float: left;
+	margin-top: 20%;
+	margin-left: 5%;
+	
+}
+
+.right-arrow{
+	float: right;
+	margin-top: 20%;
+	margin-right: 5%;
+	
+}
+
+.garments{
+	margin-left: 5%;
+	margin-top: 20%;
+	
+}
+
+
+.academia{
+	margin-right: 10%;
+	margin-top: 20%;
+}
+
+
+
+
+
+
