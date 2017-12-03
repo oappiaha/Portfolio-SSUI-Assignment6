@@ -15,7 +15,7 @@ function loadApp() {
 	flipbook.turn({
 			width: 922,
 			height: 600,
-			duration: 1000,
+			duration: 1500,
 			acceleration: !isChrome(),
 			gradients: true,
 			autoCenter: true,
