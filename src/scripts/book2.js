@@ -20,7 +20,7 @@ function loadApp() {
 			gradients: true,
 			autoCenter: true,
 			elevation: 50,
-			pages: 10,
+			pages: 14,
 			when: {
 				turning: function(event, page, view) {
 					
